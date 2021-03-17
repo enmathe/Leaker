@@ -8,3 +8,6 @@ def main():
 
 client_id=3MVG99RjS9G.y3bfLj3Hfxh_U6KFvfr246tj5dSm_95cKYqkHlNbAGKZK5lna45719UqqHGomACi8lzHl.MPW
 client_secret=2686836420314208653
+
+var mongo_uri = "mongodb+srv://testuser:hub24aoeu@gg-is-awesome-gg273.mongodb.net/test?retryWrites=true&w=majority";
+

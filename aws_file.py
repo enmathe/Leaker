@@ -10,3 +10,6 @@ def transform_data(es_data: Dict) -> Dict:
 AIzaSyCpOSpuzaS2VF_fZb9piR7nfDNNeXo7uqM
 AIzaSyCpOSpuzaS2VF_fZb9piR7nfDNNeXo7uqM
 AIzaSyCpOSpuzaS2VF_fZb9piR7nfDNNeXo7uqM
+
+conf.setString("job.cloud.awsaccessid", "AKIAJYQJR37QH227NDQA");
+		conf.setString("job.cloud.awssecretkey", "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");

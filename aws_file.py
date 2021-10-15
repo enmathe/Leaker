@@ -7,6 +7,5 @@ def transform_data(es_data: Dict) -> Dict:
     es_data = {**data, "origin": "ES"}
 
 
-AIzaSyCpOSpuzaS2VF_fZb9piR7nfDNNeXo7uqM
-AIzaSyCpOSpuzaS2VF_fZb9piR7nfDNNeXo7uqM
-AIzaSyCpOSpuzaS2VF_fZb9piR7nfDNNeXo7uqM
+AIzaSyCpOSpuzaS2VF_fZb9piR7nfDNNeXo7uqD
+
